@@ -1,0 +1,334 @@
+/*dejavu-sans-oblique-master*/
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+}
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 100;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 200;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 300;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 400;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 500;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 600;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans Oblique';
+    src: url('../assets/fonts/dejavu-sans-oblique-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../assets/fonts/dejavu-sans-oblique-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
+         font-weight: 700;
+         font-style: normal;
+         font-display: swap;
+}
+
+
+/*game_of_squids*/
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Game Of Squids';
+    src: url('../assets/fonts/GameOfSquids.woff2') format('woff2'),
+        url('../assets/fonts/GameOfSquids.woff') format('woff'),
+        url('../assets/fonts/GameOfSquids.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*megan*/
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Megan';
+    src: url('../assets/fonts/Megan.woff2') format('woff2'),
+        url('../assets/fonts/Megan.woff') format('woff'),
+        url('../assets/fonts/Megan.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*sweet_home*/
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweet-Home';
+    src: url('../assets/fonts/Sweet-Home.woff2') format('woff2'),
+        url('../assets/fonts/Sweet-Home.woff') format('woff'),
+        url('../assets/fonts/Sweet-Home.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}

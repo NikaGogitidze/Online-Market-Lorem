@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="28px" viewBox="0 0 30 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-94.000000, -28.000000)" id="Navbar" fill="#000000">
+            <g>
+                <g id="Group-3" transform="translate(94.000000, 28.333333)">
+                    <path d="M0,0 L29.9483122,0 L29.9483122,6.8 L24.9569892,6.8 L24.9569892,4.53333333 L4.99139785,4.53333333 L4.99139785,15.8666667 L0,15.8666667 L0,0 Z M24.9569144,11.5909091 L29.9483122,11.5909091 L29.9483122,27.4575758 L0,27.4575758 L0,20.6575758 L4.99132298,20.6575758 L4.99132298,22.9242424 L24.9569144,22.9242424 L24.9569144,11.5909091 Z" id="Logo"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
